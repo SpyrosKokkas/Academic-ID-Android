@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_id_view">idView</string>
+    <string name="title_activity_qr_scanner">QrScanner</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
